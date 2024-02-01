@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(166, 240, 214);
+    font-family: 'Roboto Slab', serif;
+        
+}  
+
+.header {
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Satisfy', cursive;
+}
+
+#form-text{
+   color: aqua;
+}
